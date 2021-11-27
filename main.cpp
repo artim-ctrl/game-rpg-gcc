@@ -5,6 +5,6 @@ using namespace Game;
 int main()
 {
     GameLoop gameLoop;
-    gameLoop.loop();
+    gameLoop.startLoop();
     return 0;
 }
