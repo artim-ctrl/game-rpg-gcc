@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/var/www/gcc-test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/var/www/gcc-test/build -I/var/www/gcc-test/include  -g   -std=c++11 -o CMakeFiles/MyProject.dir/main.cpp.o -c /var/www/gcc-test/main.cpp",
+  "file": "/var/www/gcc-test/main.cpp"
+}
+]

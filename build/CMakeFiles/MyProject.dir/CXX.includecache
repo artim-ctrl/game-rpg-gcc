@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/var/www/gcc-test/main.cpp
+SFML/Graphics.hpp
+-
+src/GameLoop.h
+/var/www/gcc-test/src/GameLoop.h
+
+/var/www/gcc-test/src/GameLoop.cpp
+SFML/Graphics.hpp
+-
+
+/var/www/gcc-test/src/GameLoop.h
+GameLoop.cpp
+/var/www/gcc-test/src/GameLoop.cpp
+

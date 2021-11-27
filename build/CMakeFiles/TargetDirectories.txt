@@ -1,0 +1,9 @@
+/var/www/gcc-test/build/CMakeFiles/install/strip.dir
+/var/www/gcc-test/build/CMakeFiles/install/local.dir
+/var/www/gcc-test/build/CMakeFiles/edit_cache.dir
+/var/www/gcc-test/build/CMakeFiles/install.dir
+/var/www/gcc-test/build/CMakeFiles/list_install_components.dir
+/var/www/gcc-test/build/CMakeFiles/rebuild_cache.dir
+/var/www/gcc-test/build/CMakeFiles/package.dir
+/var/www/gcc-test/build/CMakeFiles/package_source.dir
+/var/www/gcc-test/build/CMakeFiles/MyProject.dir
