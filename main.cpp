@@ -1,4 +1,3 @@
-#include <SFML/Graphics.hpp>
 #include "src/GameLoop.h"
 
 using namespace Game;
